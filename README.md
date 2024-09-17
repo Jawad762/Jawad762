@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hey! Im Jawad: a Software Developer  currently working on diverse freelance projects along with innovative personal projects.
+<br>Hey! Im Jawad: a Software Developer currently working on diverse freelance projects alongside innovative personal projects.
 
 
 # 💻 Tech Stack:
